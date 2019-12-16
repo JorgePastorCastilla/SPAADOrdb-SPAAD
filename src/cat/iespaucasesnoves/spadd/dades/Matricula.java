@@ -6,7 +6,7 @@ import static java.util.Objects.isNull;
 
 public class Matricula {
 
-    private Alumne alumne;
+
 
     @Override
     public String toString() {
@@ -16,11 +16,11 @@ public class Matricula {
                 ", notes=" + Arrays.toString(notes) +
                 '}';
     }
-
+    private Alumne alumne;
     private Assignatura assignatura;
-    private int[] notes;
+    private Integer[] notes;
 
-    public Matricula(Alumne alumne, Assignatura assignatura, int[] notes) {
+    public Matricula(Alumne alumne, Assignatura assignatura, Integer[] notes) {
         if(!isNull(alumne)){
             this.alumne = alumne;
         }

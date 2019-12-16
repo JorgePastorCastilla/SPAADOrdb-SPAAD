@@ -4,7 +4,10 @@
     <list default="true" id="96ebc163-39c7-41cc-ba52-0785131bc1af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/ProvesJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/ProvesJDBC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/baseDades/baseDades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/baseDades/BaseDades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/baseDades/BaseDades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/baseDades/BaseDades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/dades/Alumne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/dades/Alumne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/dades/Assignatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/dades/Assignatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/dades/Matricula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cat/iespaucasesnoves/spadd/dades/Matricula.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +36,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SPADDTema2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -87,6 +90,11 @@
       <updated>1575393773454</updated>
       <workItem from="1575393780918" duration="1771000" />
       <workItem from="1575555480033" duration="6072000" />
+      <workItem from="1575570516164" duration="603000" />
+      <workItem from="1575912795701" duration="1284000" />
+      <workItem from="1575987353830" duration="10000" />
+      <workItem from="1575997533215" duration="1975000" />
+      <workItem from="1576507994041" duration="4032000" />
     </task>
     <servers />
   </component>
@@ -98,7 +106,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

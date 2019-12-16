@@ -24,4 +24,28 @@ public class Assignatura {
         this.nom = nom;
         this.cicle = cicle;
     }
+
+    public String getCodi() {
+        return codi;
+    }
+
+    public void setCodi(String codi) {
+        this.codi = codi;
+    }
+
+    public String getNom() {
+        return nom;
+    }
+
+    public void setNom(String nom) {
+        this.nom = nom;
+    }
+
+    public Cicle getCicle() {
+        return cicle;
+    }
+
+    public void setCicle(Cicle cicle) {
+        this.cicle = cicle;
+    }
 }
